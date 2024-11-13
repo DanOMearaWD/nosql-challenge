@@ -27,6 +27,6 @@ Performed the following queries and analyses:
 
 ## Code Explanation
 
-- **establishments.json**: The data source file.
+- **Resources/establishments.json**: The data source file.
 - **NoSQL_setup_starter.ipynb**: This notebook sets up the database and performs the initial data insertions and updates.
 - **NoSQL_analysis_starter.ipynb**: This notebook contains the exploratory analysis, including queries to answer specific questions about hygiene scores, ratings, and geographical proximity.
