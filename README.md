@@ -1,7 +1,5 @@
 # NoSQL Challenge - UK Food Hygiene Data
 
-This repository contains my solution for the Module 12 NoSQL Challenge, which involved working with MongoDB to analyze food hygiene data provided by the UK Food Standards Agency.
-
 ## Overview
 
 The objective of this challenge was to set up a MongoDB database, perform updates on the data, and conduct an exploratory analysis of UK food hygiene ratings. The main tasks involved importing data, updating documents, and querying the database to answer specific questions about establishments and their hygiene ratings.
