@@ -30,8 +30,6 @@ Performed the following queries and analyses:
 - **NoSQL_analysis_starter.ipynb**: This notebook contains the exploratory analysis, including queries to answer specific questions about hygiene scores, ratings, and geographical proximity.
 
 
-# Hygiene Analysis Report
-
 ## Key Findings
 
 ### Establishments with a Hygiene Score of 20
